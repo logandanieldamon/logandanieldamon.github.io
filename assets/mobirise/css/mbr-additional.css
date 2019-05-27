@@ -28,10 +28,10 @@ body {
 }
 .display-2 {
   font-family: 'Montserrat', sans-serif;
-  font-size: 4rem;
+  font-size: 3.6rem;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 6.4rem;
+  font-size: 5.76rem;
 }
 .display-4 {
   font-family: 'Montserrat', sans-serif;
@@ -66,9 +66,9 @@ body {
     line-height: calc( 1.4 * (1.14rem + (1.4 - 1.14) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 3.2rem;
-    font-size: calc( 2.05rem + (4 - 2.05) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (2.05rem + (4 - 2.05) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2.88rem;
+    font-size: calc( 1.91rem + (3.6 - 1.91) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.91rem + (3.6 - 1.91) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
     font-size: 0.48rem;
@@ -1311,7 +1311,7 @@ body {
 .cid-rrvZUq8bSn {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/layout2-1785x1011.png");
+  background-image: url("../../../assets/images/hpol-859x914.png");
 }
 .cid-rrEaFpHf4C {
   padding-top: 0px;
@@ -1357,6 +1357,9 @@ body {
   .cid-rrEnpGj2R2 .image-block {
     width: 100% !important;
   }
+}
+.cid-rrEnpGj2R2 DIV {
+  color: #000000;
 }
 .cid-rrEnG7DQHR {
   background: #ffffff;
