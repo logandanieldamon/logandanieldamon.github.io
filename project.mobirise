@@ -92,6 +92,9 @@
             },
             "& when (@bg-type = 'color')": {
               "background-color": "@bg-value"
+            },
+            "SPAN": {
+              "color": "#767676"
             }
           },
           "_name": "header2",
